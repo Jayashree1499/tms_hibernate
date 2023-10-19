@@ -42,6 +42,7 @@
 			<scope>provided</scope>
 		</dependency>
 		
+		<!-- servlet dependency -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
